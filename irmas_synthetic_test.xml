@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog xmlns:sy="http://base.synthetic.ua/ns/1.0" date="2026-09-01 13:48">
+  <shop>
+    <name>IRmAS Synthetic test</name>
+    <company>IRmAS Synthetic test</company>
+    <url>https://mydrop.com.ua/</url>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1002" sy_code="C846203">Костюми, комбінезони для дівчаток</category>
+    </categories>
+    <offers>
+      <offer id="5412629" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>1150</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>4</stock_quantity>
+        <state>new</state>
+        <name>Костюм для дівчинки Шкільна Леді чорний, розмір 128</name>
+        <vendor>no brand</vendor>
+        <vendorCode>1394</vendorCode>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/014659973c41651447ed.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6abd3ff0ed7aad21fc9e.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d7aa779702b976288ba8.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0c462e2e025892812f13.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/98eff0556de32ab27687.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/15dba77f06b1e1a2b910.jpeg</picture>
+        <description>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</description>
+        <sy:offer_description_ua>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</sy:offer_description_ua>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527" sy_value_code="VLD-4897177">128</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+      </offer>
+      <offer id="5412629s2" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>1150</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>6</stock_quantity>
+        <state>new</state>
+        <name>Костюм для дівчинки Шкільна Леді чорний, розмір 134</name>
+        <vendor>no brand</vendor>
+        <vendorCode>1394</vendorCode>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/014659973c41651447ed.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6abd3ff0ed7aad21fc9e.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d7aa779702b976288ba8.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0c462e2e025892812f13.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/98eff0556de32ab27687.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/15dba77f06b1e1a2b910.jpeg</picture>
+        <description>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</description>
+        <sy:offer_description_ua>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</sy:offer_description_ua>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527" sy_value_code="VLD-1523878">134</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+      </offer>
+      <offer id="5412629s5" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>1150</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>6</stock_quantity>
+        <state>new</state>
+        <name>Костюм для дівчинки Шкільна Леді чорний, розмір 152</name>
+        <vendor>no brand</vendor>
+        <vendorCode>1394</vendorCode>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/014659973c41651447ed.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6abd3ff0ed7aad21fc9e.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d7aa779702b976288ba8.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0c462e2e025892812f13.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/98eff0556de32ab27687.jpeg</picture>
+        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/15dba77f06b1e1a2b910.jpeg</picture>
+        <description>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</description>
+        <sy:offer_description_ua>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</sy:offer_description_ua>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527" sy_value_code="VLD-4897178">152</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

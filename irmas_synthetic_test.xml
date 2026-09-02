@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog xmlns:sy="http://base.synthetic.ua/ns/1.0" date="2026-09-01 13:48">
+<yml_catalog xmlns:sy="http://base.synthetic.ua/ns/1.0" date="2026-09-02 15:04">
   <shop>
-    <name>IRmAS Synthetic test</name>
-    <company>IRmAS Synthetic test</company>
-    <url>https://mydrop.com.ua/</url>
+    <name>МАЛИШ style — Synthetic test</name>
+    <company>МАЛИШ style</company>
+    <url>https://malishpl.org.ua/</url>
     <currencies>
       <currency id="UAH" rate="1" />
     </currencies>
@@ -11,77 +11,428 @@
       <category id="1002" sy_code="C846203">Костюми, комбінезони для дівчаток</category>
     </categories>
     <offers>
-      <offer id="5412629" available="true">
+      <offer id="35370056" available="true">
         <categoryId>1002</categoryId>
         <sy_type>PTD-03923</sy_type>
-        <price>1150</price>
+        <price>427.63</price>
         <currencyId>UAH</currencyId>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>999</stock_quantity>
         <state>new</state>
-        <name>Костюм для дівчинки Шкільна Леді чорний, розмір 128</name>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Чорний, розмір 56 (зріст 98–104 см), розміри на зріст 98–158 см</name>
         <vendor>no brand</vendor>
-        <vendorCode>1394</vendorCode>
-        <url>https://mydrop.com.ua/irmas/p/5412629</url>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/014659973c41651447ed.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6abd3ff0ed7aad21fc9e.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d7aa779702b976288ba8.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0c462e2e025892812f13.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/98eff0556de32ab27687.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/15dba77f06b1e1a2b910.jpeg</picture>
-        <description>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</description>
-        <sy:offer_description_ua>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</sy:offer_description_ua>
+        <vendorCode>КС-82-3537-56</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3537&amp;search=%D0%BA%D1%81+82#22393</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/photo_2026-08-28_16-40-02-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 56. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 36; напівобхват — 42; рукав від шиї — 44; довжина штанів — 62; крок — 43; напівобхват стегон — 34.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 56. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 36; напівобхват — 42; рукав від шиї — 44; довжина штанів — 62; крок — 43; напівобхват стегон — 34.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Чорний, размер 56. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 36; полуобхват — 42; рукав от шеи — 44; длина брюк — 62; шаговый шов — 43; полуобхват бедер — 34.&lt;/p&gt;</sy:offer_description_ru>
         <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
-        <param name="Розмір" sy_attr_code="AND-04527" sy_value_code="VLD-4897177">128</param>
+        <param name="Розмір" sy_attr_code="AND-04527">56</param>
         <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
         <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
       </offer>
-      <offer id="5412629s2" available="true">
+      <offer id="35370060" available="true">
         <categoryId>1002</categoryId>
         <sy_type>PTD-03923</sy_type>
-        <price>1150</price>
+        <price>460.43</price>
         <currencyId>UAH</currencyId>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>999</stock_quantity>
         <state>new</state>
-        <name>Костюм для дівчинки Шкільна Леді чорний, розмір 134</name>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Чорний, розмір 60 (зріст 110–116 см), розміри на зріст 98–158 см</name>
         <vendor>no brand</vendor>
-        <vendorCode>1394</vendorCode>
-        <url>https://mydrop.com.ua/irmas/p/5412629</url>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/014659973c41651447ed.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6abd3ff0ed7aad21fc9e.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d7aa779702b976288ba8.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0c462e2e025892812f13.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/98eff0556de32ab27687.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/15dba77f06b1e1a2b910.jpeg</picture>
-        <description>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</description>
-        <sy:offer_description_ua>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</sy:offer_description_ua>
+        <vendorCode>КС-82-3537-60</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3537&amp;search=%D0%BA%D1%81+82#22393</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/photo_2026-08-28_16-40-02-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 60. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 38; напівобхват — 43; рукав від шиї — 46; довжина штанів — 66; крок — 47; напівобхват стегон — 36.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 60. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 38; напівобхват — 43; рукав від шиї — 46; довжина штанів — 66; крок — 47; напівобхват стегон — 36.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Чорний, размер 60. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 38; полуобхват — 43; рукав от шеи — 46; длина брюк — 66; шаговый шов — 47; полуобхват бедер — 36.&lt;/p&gt;</sy:offer_description_ru>
         <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
-        <param name="Розмір" sy_attr_code="AND-04527" sy_value_code="VLD-1523878">134</param>
+        <param name="Розмір" sy_attr_code="AND-04527">60</param>
         <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
         <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
       </offer>
-      <offer id="5412629s5" available="true">
+      <offer id="35370064" available="true">
         <categoryId>1002</categoryId>
         <sy_type>PTD-03923</sy_type>
-        <price>1150</price>
+        <price>493.64</price>
         <currencyId>UAH</currencyId>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>999</stock_quantity>
         <state>new</state>
-        <name>Костюм для дівчинки Шкільна Леді чорний, розмір 152</name>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Чорний, розмір 64 (зріст 116–122 см), розміри на зріст 98–158 см</name>
         <vendor>no brand</vendor>
-        <vendorCode>1394</vendorCode>
-        <url>https://mydrop.com.ua/irmas/p/5412629</url>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/014659973c41651447ed.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6abd3ff0ed7aad21fc9e.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d7aa779702b976288ba8.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0c462e2e025892812f13.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/98eff0556de32ab27687.jpeg</picture>
-        <picture>https://backend.mydrop.com.ua/vendor/products/uploads/15dba77f06b1e1a2b910.jpeg</picture>
-        <description>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</description>
-        <sy:offer_description_ua>тканина: тіар (костюмна тканина)&lt;br /&gt;пояс в спідниці на резинці, збоку в спідниці потайна блискавка&lt;br /&gt;піджак та спідниця на підкладці&lt;br /&gt;&lt;br /&gt;Виміри:&lt;br /&gt;р.128 довж піджака/рукав/ширина 35/46/40 довж спідниці/талія/стегна 30/27-31/41&lt;br /&gt;р.134 довж піджака/рукав /ширина 38/49/42 довж спідниці/талія/стегна 33/27-33/43&lt;br /&gt;р.140 довж піджака/рукав/ширина 40/50/43 довж спідниці/талія/стегна 35/28-35/44&lt;br /&gt;р.146 довж піджака/рукав/ширина 41/52/44 довж спідниці/талія/стегна 36/29-36/46&lt;br /&gt;р.152 довж піджака/рукав/ширина 43/54/45 довж спідниці/талія/стегна 38/30-38/48&lt;br /&gt;р.158 довж піджака/рукав/ширина 45/56/46 довж спідниці/талія/стегна 40/31-39/50&lt;br /&gt;р.164 довж піджака/рукав/ширина 47/58/47 довж спідниці/талія/стегна 44/32-40/52</sy:offer_description_ua>
+        <vendorCode>КС-82-3537-64</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3537&amp;search=%D0%BA%D1%81+82#22393</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/photo_2026-08-28_16-40-02-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 64. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 40; напівобхват — 45; рукав від шиї — 48; довжина штанів — 70; крок — 50; напівобхват стегон — 38.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 64. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 40; напівобхват — 45; рукав від шиї — 48; довжина штанів — 70; крок — 50; напівобхват стегон — 38.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Чорний, размер 64. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 40; полуобхват — 45; рукав от шеи — 48; длина брюк — 70; шаговый шов — 50; полуобхват бедер — 38.&lt;/p&gt;</sy:offer_description_ru>
         <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
-        <param name="Розмір" sy_attr_code="AND-04527" sy_value_code="VLD-4897178">152</param>
+        <param name="Розмір" sy_attr_code="AND-04527">64</param>
         <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
         <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+      </offer>
+      <offer id="35370068" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>526.85</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Чорний, розмір 68 (зріст 122–128 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3537-68</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3537&amp;search=%D0%BA%D1%81+82#22393</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/photo_2026-08-28_16-40-02-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 68. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 41; напівобхват — 46; рукав від шиї — 50; довжина штанів — 75; крок — 54; напівобхват стегон — 39.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 68. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 41; напівобхват — 46; рукав від шиї — 50; довжина штанів — 75; крок — 54; напівобхват стегон — 39.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Чорний, размер 68. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 41; полуобхват — 46; рукав от шеи — 50; длина брюк — 75; шаговый шов — 54; полуобхват бедер — 39.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527" sy_value_code="VLD-244997">68</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+      </offer>
+      <offer id="35370072" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>558.01</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Чорний, розмір 72 (зріст 128–134 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3537-72</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3537&amp;search=%D0%BA%D1%81+82#22393</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/photo_2026-08-28_16-40-02-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 72. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 43; напівобхват — 48; рукав від шиї — 52; довжина штанів — 78; крок — 57; напівобхват стегон — 40.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 72. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 43; напівобхват — 48; рукав від шиї — 52; довжина штанів — 78; крок — 57; напівобхват стегон — 40.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Чорний, размер 72. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 43; полуобхват — 48; рукав от шеи — 52; длина брюк — 78; шаговый шов — 57; полуобхват бедер — 40.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527">72</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+      </offer>
+      <offer id="35370076" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>589.17</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Чорний, розмір 76 (зріст 134–140 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3537-76</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3537&amp;search=%D0%BA%D1%81+82#22393</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/photo_2026-08-28_16-40-02-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 76. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 45; напівобхват — 50; рукав від шиї — 54; довжина штанів — 83; крок — 61; напівобхват стегон — 41.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 76. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 45; напівобхват — 50; рукав від шиї — 54; довжина штанів — 83; крок — 61; напівобхват стегон — 41.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Чорний, размер 76. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 45; полуобхват — 50; рукав от шеи — 54; длина брюк — 83; шаговый шов — 61; полуобхват бедер — 41.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527">76</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+      </offer>
+      <offer id="35370080" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>621.97</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Чорний, розмір 80 (зріст 140–146 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3537-80</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3537&amp;search=%D0%BA%D1%81+82#22393</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/photo_2026-08-28_16-40-02-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 80. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 47; напівобхват — 51; рукав від шиї — 57; довжина штанів — 86; крок — 64; напівобхват стегон — 43.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 80. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 47; напівобхват — 51; рукав від шиї — 57; довжина штанів — 86; крок — 64; напівобхват стегон — 43.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Чорний, размер 80. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 47; полуобхват — 51; рукав от шеи — 57; длина брюк — 86; шаговый шов — 64; полуобхват бедер — 43.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527" sy_value_code="VLD-4894709">80</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+      </offer>
+      <offer id="35370084" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>655.18</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Чорний, розмір 84 (зріст 146–152 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3537-84</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3537&amp;search=%D0%BA%D1%81+82#22393</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/photo_2026-08-28_16-40-02-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 84. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 49; напівобхват — 52; рукав від шиї — 59; довжина штанів — 89; крок — 67; напівобхват стегон — 44.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 84. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 49; напівобхват — 52; рукав від шиї — 59; довжина штанів — 89; крок — 67; напівобхват стегон — 44.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Чорний, размер 84. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 49; полуобхват — 52; рукав от шеи — 59; длина брюк — 89; шаговый шов — 67; полуобхват бедер — 44.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527">84</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+      </offer>
+      <offer id="35370088" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>688.39</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Чорний, розмір 88 (зріст 152–158 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3537-88</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3537&amp;search=%D0%BA%D1%81+82#22393</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/photo_2026-08-28_16-40-02-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 88. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 50; напівобхват — 53; рукав від шиї — 61; довжина штанів — 93; крок — 70; напівобхват стегон — 45.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Чорний, розмір 88. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 50; напівобхват — 53; рукав від шиї — 61; довжина штанів — 93; крок — 70; напівобхват стегон — 45.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Чорний, размер 88. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 50; полуобхват — 53; рукав от шеи — 61; длина брюк — 93; шаговый шов — 70; полуобхват бедер — 45.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527">88</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-160386">Чорний</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+      </offer>
+      <offer id="35300056" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>427.63</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Мокко, розмір 56 (зріст 98–104 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3530-56</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3530&amp;search=%D0%BA%D1%81+82#22324</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-mokko-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 56. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 36; напівобхват — 42; рукав від шиї — 44; довжина штанів — 62; крок — 43; напівобхват стегон — 34.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 56. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 36; напівобхват — 42; рукав від шиї — 44; довжина штанів — 62; крок — 43; напівобхват стегон — 34.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Мокко, размер 56. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 36; полуобхват — 42; рукав от шеи — 44; длина брюк — 62; шаговый шов — 43; полуобхват бедер — 34.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527">56</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-1654334">Коричневий</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+        <param name="Відтінок">Мокко</param>
+      </offer>
+      <offer id="35300060" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>460.43</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Мокко, розмір 60 (зріст 110–116 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3530-60</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3530&amp;search=%D0%BA%D1%81+82#22324</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-mokko-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 60. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 38; напівобхват — 43; рукав від шиї — 46; довжина штанів — 66; крок — 47; напівобхват стегон — 36.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 60. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 38; напівобхват — 43; рукав від шиї — 46; довжина штанів — 66; крок — 47; напівобхват стегон — 36.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Мокко, размер 60. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 38; полуобхват — 43; рукав от шеи — 46; длина брюк — 66; шаговый шов — 47; полуобхват бедер — 36.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527">60</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-1654334">Коричневий</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+        <param name="Відтінок">Мокко</param>
+      </offer>
+      <offer id="35300064" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>493.64</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Мокко, розмір 64 (зріст 116–122 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3530-64</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3530&amp;search=%D0%BA%D1%81+82#22324</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-mokko-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 64. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 40; напівобхват — 45; рукав від шиї — 48; довжина штанів — 70; крок — 50; напівобхват стегон — 38.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 64. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 40; напівобхват — 45; рукав від шиї — 48; довжина штанів — 70; крок — 50; напівобхват стегон — 38.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Мокко, размер 64. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 40; полуобхват — 45; рукав от шеи — 48; длина брюк — 70; шаговый шов — 50; полуобхват бедер — 38.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527">64</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-1654334">Коричневий</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+        <param name="Відтінок">Мокко</param>
+      </offer>
+      <offer id="35300068" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>526.85</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Мокко, розмір 68 (зріст 122–128 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3530-68</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3530&amp;search=%D0%BA%D1%81+82#22324</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-mokko-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 68. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 41; напівобхват — 46; рукав від шиї — 50; довжина штанів — 75; крок — 54; напівобхват стегон — 39.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 68. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 41; напівобхват — 46; рукав від шиї — 50; довжина штанів — 75; крок — 54; напівобхват стегон — 39.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Мокко, размер 68. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 41; полуобхват — 46; рукав от шеи — 50; длина брюк — 75; шаговый шов — 54; полуобхват бедер — 39.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527" sy_value_code="VLD-244997">68</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-1654334">Коричневий</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+        <param name="Відтінок">Мокко</param>
+      </offer>
+      <offer id="35300072" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>558.01</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Мокко, розмір 72 (зріст 128–134 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3530-72</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3530&amp;search=%D0%BA%D1%81+82#22324</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-mokko-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 72. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 43; напівобхват — 48; рукав від шиї — 52; довжина штанів — 78; крок — 57; напівобхват стегон — 40.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 72. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 43; напівобхват — 48; рукав від шиї — 52; довжина штанів — 78; крок — 57; напівобхват стегон — 40.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Мокко, размер 72. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 43; полуобхват — 48; рукав от шеи — 52; длина брюк — 78; шаговый шов — 57; полуобхват бедер — 40.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527">72</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-1654334">Коричневий</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+        <param name="Відтінок">Мокко</param>
+      </offer>
+      <offer id="35300076" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>589.17</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Мокко, розмір 76 (зріст 134–140 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3530-76</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3530&amp;search=%D0%BA%D1%81+82#22324</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-mokko-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 76. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 45; напівобхват — 50; рукав від шиї — 54; довжина штанів — 83; крок — 61; напівобхват стегон — 41.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 76. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 45; напівобхват — 50; рукав від шиї — 54; довжина штанів — 83; крок — 61; напівобхват стегон — 41.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Мокко, размер 76. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 45; полуобхват — 50; рукав от шеи — 54; длина брюк — 83; шаговый шов — 61; полуобхват бедер — 41.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527">76</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-1654334">Коричневий</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+        <param name="Відтінок">Мокко</param>
+      </offer>
+      <offer id="35300080" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>621.97</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Мокко, розмір 80 (зріст 140–146 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3530-80</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3530&amp;search=%D0%BA%D1%81+82#22324</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-mokko-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 80. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 47; напівобхват — 51; рукав від шиї — 57; довжина штанів — 86; крок — 64; напівобхват стегон — 43.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 80. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 47; напівобхват — 51; рукав від шиї — 57; довжина штанів — 86; крок — 64; напівобхват стегон — 43.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Мокко, размер 80. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 47; полуобхват — 51; рукав от шеи — 57; длина брюк — 86; шаговый шов — 64; полуобхват бедер — 43.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527" sy_value_code="VLD-4894709">80</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-1654334">Коричневий</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+        <param name="Відтінок">Мокко</param>
+      </offer>
+      <offer id="35300084" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>655.18</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Мокко, розмір 84 (зріст 146–152 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3530-84</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3530&amp;search=%D0%BA%D1%81+82#22324</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-mokko-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 84. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 49; напівобхват — 52; рукав від шиї — 59; довжина штанів — 89; крок — 67; напівобхват стегон — 44.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 84. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 49; напівобхват — 52; рукав від шиї — 59; довжина штанів — 89; крок — 67; напівобхват стегон — 44.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Мокко, размер 84. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 49; полуобхват — 52; рукав от шеи — 59; длина брюк — 89; шаговый шов — 67; полуобхват бедер — 44.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527">84</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-1654334">Коричневий</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+        <param name="Відтінок">Мокко</param>
+      </offer>
+      <offer id="35300088" available="true">
+        <categoryId>1002</categoryId>
+        <sy_type>PTD-03923</sy_type>
+        <price>688.39</price>
+        <currencyId>UAH</currencyId>
+        <stock_quantity>999</stock_quantity>
+        <state>new</state>
+        <name>Костюм дитячий для дівчинки КС-82 велюр Мокко, розмір 88 (зріст 152–158 см), розміри на зріст 98–158 см</name>
+        <vendor>no brand</vendor>
+        <vendorCode>КС-82-3530-88</vendorCode>
+        <url>https://malishpl.org.ua/index.php?route=product/product&amp;product_id=3530&amp;search=%D0%BA%D1%81+82#22324</url>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-mokko-800x600.jpg</picture>
+        <picture>https://malishpl.org.ua/image/cache/catalog/ks-2026-2/ks-82-vel-vn-800x600.jpg</picture>
+        <description>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 88. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 50; напівобхват — 53; рукав від шиї — 61; довжина штанів — 93; крок — 70; напівобхват стегон — 45.&lt;/p&gt;</description>
+        <sy:offer_description_ua>&lt;p&gt;Дитячий костюм для дівчинки КС-82, колір Мокко, розмір 88. Комплект складається з укороченого джемпера з капюшоном, довгими рукавами, манжетами, блискавкою та накладною кишенею, а також штанів-джогерів на широкій резинці з кишенями.&lt;/p&gt;&lt;p&gt;Матеріал: велюр без утеплення. Склад: 90% поліестер, 10% спандекс. Сезон: весна-осінь.&lt;/p&gt;&lt;p&gt;Заміри, см: довжина джемпера — 50; напівобхват — 53; рукав від шиї — 61; довжина штанів — 93; крок — 70; напівобхват стегон — 45.&lt;/p&gt;</sy:offer_description_ua>
+        <sy:offer_description_ru>&lt;p&gt;Детский костюм для девочки КС-82, цвет Мокко, размер 88. Комплект состоит из укороченного джемпера с капюшоном, длинными рукавами, манжетами, молнией и накладным карманом, а также брюк-джоггеров на широкой резинке с карманами.&lt;/p&gt;&lt;p&gt;Материал: велюр без утепления. Состав: 90% полиэстер, 10% спандекс. Сезон: весна-осень.&lt;/p&gt;&lt;p&gt;Замеры, см: длина джемпера — 50; полуобхват — 53; рукав от шеи — 61; длина брюк — 93; шаговый шов — 70; полуобхват бедер — 45.&lt;/p&gt;</sy:offer_description_ru>
+        <param name="Тип" sy_attr_code="AND-00027" sy_value_code="VLD-3647924">Комплект</param>
+        <param name="Розмір" sy_attr_code="AND-04527">88</param>
+        <param name="Колір" sy_attr_code="AND-408754" sy_value_code="VLD-1654334">Коричневий</param>
+        <param name="Сезон" sy_attr_code="AND-04526" sy_value_code="VLD-61825">Осінь</param>
+        <param name="Матеріал">Велюр</param>
+        <param name="Склад">90% поліестер, 10% спандекс</param>
+        <param name="Відтінок">Мокко</param>
       </offer>
     </offers>
   </shop>
